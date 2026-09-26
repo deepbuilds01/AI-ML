@@ -4,3 +4,4 @@ class Student:
 
 s1 = Student()
 print(s1)            # Adrress of student class
+print(s1.name)
