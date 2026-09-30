@@ -1,0 +1,5 @@
+Py is easy to learn.
+Python is used in AI and ML.
+Deep is learning Python.
+Strings are very important.
+Practice makes programming better
